@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
+// привет Василий
 public class BlackHole : MonoBehaviour
 {
     private CircleCollider2D _collider;
